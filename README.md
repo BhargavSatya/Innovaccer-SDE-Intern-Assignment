@@ -1,8 +1,8 @@
 # Innovaccer-SDE-Intern-Assignment
-InnoVaccer HackerCamp Summer Internship Hiring Challenge
-How to run?
-PREREQUISITES:
-BeautifulSoup
+InnoVaccer HackerCamp Summer Internship Hiring Challenge  
+How to run?   
+PREREQUISITES:  
+BeautifulSoup  
 ```
 pip install bs4
 sudo apt-get build-dep python-mysqldb
@@ -14,5 +14,5 @@ sudo python myscript.py
 
 
 ```
-MYSQL  DATABASE: database name 'innov'
+MYSQL  DATABASE: database name 'innov'  
 change the user and password in the mailer and database connector(mymail.py & mymysql.py)
