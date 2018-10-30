@@ -3,7 +3,8 @@ InnoVaccer HackerCamp Summer Internship Hiring Challenge
 ## Configurations
 Change the user and password in the mailer and database connector(mymail.py & mymysql.py)
 #### MYSQL  DATABASE:
-    Database Name : ```innov``` 
+Database Name : 
+    ```innov``` 
 ## Requirements
 Python 2.7
 BeautifulSoup 4
@@ -15,7 +16,7 @@ Run the following Command
  #### To install the requirements
  ```sudo bash main.sh``` 
  #### To Run the script
-    ``` sudo python myscript.py ```
+ ``` sudo python myscript.py ```
   
   
 ## Running
