@@ -11,8 +11,12 @@ MySQL
 SMTP Mailer
 
 ## How to run?   
-Run the following Command,
-  ```sudo bash main.sh```
+Run the following Command
+ #### To install the requirements
+ ```sudo bash main.sh``` 
+ #### To Run the script
+    ``` sudo python myscript.py ```
+  
   
 ## Running
 
